@@ -2,3 +2,5 @@
 /test-cifar*
 /logs
 /data
+/PETA*
+.zip*
