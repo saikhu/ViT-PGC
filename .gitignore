@@ -3,7 +3,7 @@
 /logs
 /data
 /datasets
-/PETA*
+/PETA
 /MIT*
 .zip*
 model.pt
