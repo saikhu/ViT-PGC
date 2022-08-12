@@ -2,6 +2,7 @@
 /test-cifar*
 /logs
 /data
+/datasets
 /PETA*
 /MIT*
 .zip*
