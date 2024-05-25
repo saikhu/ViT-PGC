@@ -1,8 +1,12 @@
 # ViT-PGC: vision transformer for pedestrian gender classification
 
-Implementation of ViT-PGC: vision transformer for pedestrian gender classification on small-size dataset paper published in Pattern Analysis and Applications
+Implementation of ViT-PGC: vision transformer for pedestrian gender classification on small-size dataset paper published in Pattern Analysis and Applications.
 
 https://doi.org/10.1007/s10044-023-01196-2
+
+
+The data used in this project you can access: https://mmlab.ie.cuhk.edu.hk/projects/PETA.html
+
 
 To cite:
 
