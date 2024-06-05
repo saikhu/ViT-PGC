@@ -4,9 +4,12 @@ Implementation of ViT-PGC: vision transformer for pedestrian gender classificati
 
 https://doi.org/10.1007/s10044-023-01196-2
 
-
 The data used in this project you can access: https://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 
+#
+### Training
+
+Follow the Python Notebooks for model training `PETA_Training_the_Vision_Transformer.ipynb`.
 
 To cite:
 
