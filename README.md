@@ -9,7 +9,11 @@ The data used in this project you can access: https://mmlab.ie.cuhk.edu.hk/proje
 #
 ### Training
 
-Follow the Python Notebooks for model training `PETA_Training_the_Vision_Transformer.ipynb`.
+Follow the Python Notebooks for model training:
+- `PETA_Training_the_Vision_Transformer.ipynb`
+- `PETA_Transfromer_Custom.ipynb`
+
+#
 
 To cite:
 
